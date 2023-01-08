@@ -5,8 +5,8 @@ if __name__ == "__main__":
     import sys
 
     count = len(sys.argv)
-    if count <= 1:
-        print("0 arguments.")
+    if count == 1:
+        print("0 arguments.".format(count - 1))
     elif count == 2:
         print("{} argument:".format(count - 1))
     else:
