@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""Defines unittests for Square.py"""
 import io
 import sys
 import unittest
