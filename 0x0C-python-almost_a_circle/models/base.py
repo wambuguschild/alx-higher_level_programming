@@ -1,9 +1,8 @@
-#!usr/bin/python3
-"""Defines a base model class."""
+#!/usr/bin/python3
+"""Defines a base model class"""
 import json
 import csv
 import turtle
-
 
 class Base:
     """Represents the base model.
