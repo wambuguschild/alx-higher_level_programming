@@ -2,7 +2,7 @@
 
 """ Defines State class and Base instance"""
 
-from sqlalchemy.ext.delarative import declarative_base
+from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, Integer, String
 
 Base = declarative_base()
