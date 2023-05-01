@@ -1,4 +1,4 @@
-#!/usr/bin/pythom3
+#!/usr/bin/python3
 """ A script that takes in a URL and an email address sends a POST request
 and displays the body of the response."""
 
