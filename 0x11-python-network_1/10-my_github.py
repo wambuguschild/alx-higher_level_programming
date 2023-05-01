@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 """ A script that takes your GitHub credentials and
 uses the GitHub API to display your ID"""
 
